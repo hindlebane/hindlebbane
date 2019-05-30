@@ -1,0 +1,56 @@
+<?php 
+$lang =  array(
+	"title" => "Document",
+	"home" => "home",
+	"about" => "About",
+	"Personality" => "Personnality",
+	"Portfolio" => "Portfolio",
+	"Contact" => "contact",
+    "subheading" => "I master the different computer languages, and take a real
+            pleasure in exercising daily.",
+            "more" => "Plus sur moi",
+    "lead" => "I've always been drawn to the overlap between design and development.",
+   "bridge" => "Bridge communication gap between designers and developers",
+    "bridge2" => "Integrate your website into an easy to use content management system",
+"bridge1" => "Assist with production of clean and functional design
+",
+	"hello" => "Hello",
+	"ma" => "My",
+	 "responsive"=> "Create responsive websites that work on a wide range of
+                devices",
+                "hire" => "Hire  me",
+                  "cv" => "Dowloand CV",
+"quote1" => "Follow your dreams, believe in yourself and don't give up.",
+	"im" => "I'm",
+	"typequote1" => "Motivational Quotes",
+	"aboutme" => "About me",
+	"wanna" => "Wanna",
+	   "work" => "Start Work",
+	 "typequote2" => "Creative Quotes.",
+	 "creative" => " Créativity",
+	    "with" => "With Me?",
+	 "all"=>"All",
+	     "can" => "With my experience I can",
+
+	     "tele" => "Phone",
+     "skils" => "My skills are broad: from ux to design, front end to back end development. I enjoy each aspect, and love building sites and mobile apps from start to finish,",
+	   "participation" => "I Participated",
+	      "with" => "With Me?",
+	   "in" =>  " in :",
+	       "contact" => "Get In Touch",
+
+	   "enable" => "Hack The Goals is a worldwide movement of hackathons organised by Enabel, the Belgian development agency.",
+	     "devoxx" => "Devoxx is the largest independent IT conference in the world specializing in information technology.",
+	     "ocp" => "new digital solutions for farmers.Imagine affordable digital solutions that could help low-income farmers",
+	 "projet" => "Creating a website for managing a library (VB.NET).",
+	  "bac" => "Scientific Baccalaureate option: Life and Earth Sciences.",
+	   "diplome" => "Diploma of Technician specialized in Computer Development.",
+	    "youcode" =>  "Digital Trades Training, You Coudeuse of web and mobile computing development.",
+	 "quote2" => "Your life is your canvas, and you are the masterpiece. There are a million ways to be kind,
+                amazing, fabulous, creative, bold, and interesting.",
+                 "stage" => "Realization of a desktop application that manages trainees.",
+	"description" => "this is explanation about my amazing website !",
+	"lang_en" => "<img src='languages/image/united-states.png'>",
+	"lang_fr" => "<img src='languages/image/france.png'>"
+	  );
+?>
